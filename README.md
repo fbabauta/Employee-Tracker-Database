@@ -51,4 +51,12 @@ npm install
 ## Credits
 * [Inquirer.js](https://www.npmjs.com/package/inquirer)
 
+## Finished Product
+
+
+## Questions 
+If you have any questions about the repo, please contact me:
+
+GitHub: [fbabauta](https://github.com/fbabauta) | Email: francine.babauta@outlook.com
+
 
