@@ -57,6 +57,6 @@ npm install
 ## Questions 
 If you have any questions about the repo, please contact me:
 
-GitHub: [fbabauta](https://github.com/fbabauta) | Email: francine.babauta@outlook.com
+:octocat: GitHub: [fbabauta](https://github.com/fbabauta) | :email: Email: francine.babauta@outlook.com
 
 
