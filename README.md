@@ -17,31 +17,19 @@ Employee Management System is a command-line, Content Management System, that al
 * Run node index.js to begin.
 * Choose an action:
 
-    :arrow_right:View all Employees
-    
-    :arrow_right:View all Employees By Manager
-    
-    :arrow_right:Add Employee
-    
-    :arrow_right:Remove Employee
-    
-    :arrow_right:Update Employee Role
-    
-    :arrow_right:Update Employee Manager
-    
-    :arrow_right:View all Roles
-    
-    :arrow_right:Add Role
-    
-    :arrow_right:Remove Role
-    
-    :arrow_right:View all Departments
-    
-    :arrow_right:Add Department
-    
-    :arrow_right:Remove Department
-    
-    :arrow_right:Exit
+###### :arrow_right:View all Employees
+###### :arrow_right:View all Employees By Manager
+###### :arrow_right:Add Employee
+###### :arrow_right:Remove Employee
+###### :arrow_right:Update Employee Role
+###### :arrow_right:Update Employee Manager
+###### :arrow_right:View all Roles
+###### :arrow_right:Add Role
+###### :arrow_right:Remove Role
+###### :arrow_right:View all Departments
+###### :arrow_right:Add Department
+###### :arrow_right:Remove Department
+###### :arrow_right:Exit
     
 * Answer follow up questions based on action chosen.
 * Action is executed based on answers.
