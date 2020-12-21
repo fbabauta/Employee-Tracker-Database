@@ -52,6 +52,7 @@ npm install
 * [Inquirer.js](https://www.npmjs.com/package/inquirer)
 
 ## Finished Product
+View a video demonstrating the full application [here](https://drive.google.com/file/d/1RCQwB0Y5WyzEnkfEUS8lV4NFW_-LjdNg/view). 
 
 
 ## Questions 
