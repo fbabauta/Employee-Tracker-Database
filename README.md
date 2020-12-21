@@ -35,4 +35,20 @@ Employee Management System is a command-line, Content Management System, that al
 
 ![image](https://user-images.githubusercontent.com/70370805/102792480-6a566b00-435d-11eb-9ce0-50bb7f185718.png)
 
+## Technologies
+* MySQL
+* Node.js
+* JavaScript
+* npm
+* Inquirer.js
+
+## Installation
+To install necessary dependencies, run the following command: 
+``` 
+npm install 
+``` 
+
+## Credits
+* [Inquirer.js](https://www.npmjs.com/package/inquirer)
+
 
