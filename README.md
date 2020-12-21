@@ -45,7 +45,7 @@ Employee Management System is a command-line, Content Management System, that al
     
 * Answer follow up questions based on action chosen.
 * Action is executed based on answers.
-* Choose "Nothing, I'm done." to exit the program.
+* Choose "Exit" to exit the program.
 
 ![image](https://user-images.githubusercontent.com/70370805/102792480-6a566b00-435d-11eb-9ce0-50bb7f185718.png)
 
